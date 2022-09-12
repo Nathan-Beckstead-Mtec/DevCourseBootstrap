@@ -1,0 +1,19 @@
+.nav-link {
+  --bs-nav-link-color:black;
+  --bs-nav-link-hover-color: #8b37ff;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 24px;
+}
+
+#image-box {
+  background-color: #04050a;
+  background-image: url("../meta.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/*# sourceMappingURL=style.css.map */
